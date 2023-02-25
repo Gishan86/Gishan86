@@ -2,9 +2,9 @@
 
 <!-- Links -->
 <p align="center">
-	<a href="https://www.xing.com/profile/Christian_Stangl084235"><img src="https://img.shields.io/badge/-Xing-006567?style=flat&logo=xing&logoColor=white&style=plastic" /></a>
-  <a href="https://stackoverflow.com/users/19284187/gishan86"><img src="https://img.shields.io/badge/-Stackoverflow-f48225?style=flat&logo=Stackoverflow&logoColor=white&style=plastic" /></a>
-  <a href="https://github.com/Gishan86"><img src="https://img.shields.io/badge/-Github-3a3a3a?style=flat&logo=GitHub&logoColor=white&style=plastic" /></a>
+	<a href="https://www.xing.com/profile/Christian_Stangl084235"><img src="https://img.shields.io/badge/-Xing-006567?style=plastic&logo=xing&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/19284187/gishan86"><img src="https://img.shields.io/badge/-Stackoverflow-f48225?style=plastic&logo=Stackoverflow&logoColor=white" /></a>
+  <a href="https://github.com/Gishan86"><img src="https://img.shields.io/badge/-Github-3a3a3a?style=plastic&logo=GitHub&logoColor=white" /></a>
 </p>
 
 --------------
