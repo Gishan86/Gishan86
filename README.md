@@ -9,6 +9,16 @@
 
 --------------
 
+<h3>Disclaimer 🚩</h3>
+<p>
+This repository is going to evolve over time!
+So if you don't see a lot of uploads at this moment - come back at a later time and there will be more.
+On one hand it is meant as a portfolio to showcase my skillset to someone interested in working with me.
+But I will also share scripts, tools or even code snippets if I think they might be useful to others.
+</p>
+
+--------------
+
 <!-- About me -->
 <h3>About me 🧔</h3>
 <p>
