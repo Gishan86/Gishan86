@@ -44,13 +44,13 @@ When I'm not at the keyboard ⌨️, I love to go hiking ⛰️ and do outdoor/w
 <h3>Professional career 🏠</h3>
 <p>
 Since my early days as a junior developer, I've got to be involved in a wide variety of different projects.
-From the getgo I've worked on pretty much everything - from simple tools, bigger business applications to front-end or back-end frameworks.
+From the getgo I've worked on pretty much everything - from simple tools, bigger business applications to frontend or backend frameworks.
 
 The amount of different technologies I came in contact with, helped me further my overall understanding in this craft.
-Java, Visual Basic, C#, WPF or SQL are only a small subset of languages and technologies I came in contact since then.
+Java, Visual Basic, C#, WPF or SQL are only a small subset of languages and technologies I came in contact since then. Although I'm comfortable with most of these technologies and constantly try to improve/learn new ones, my main focus is working on a large Java backend for an application server with desktop, mobile and web clients having all their business logic running server-side.
 
-Today I still work for the company through which i originally joined the software development industry over 15 years ago.
-Being part of the same company for this long and see it and it's framework flourish and grow is a huge success for me which I'm also very proud of.
+Today I still work for the same company through which i originally joined the software development industry over 15 years ago.
+Being part of the same company for this long and see it and it's framework flourish and grow is a huge success for me, which I'm also very proud of.
 </p>
 
 -------------
